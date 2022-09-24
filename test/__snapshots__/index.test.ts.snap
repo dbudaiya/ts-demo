@@ -1,0 +1,5 @@
+// Vitest Snapshot v1
+
+exports[`1 > 使用快照 > header 1`] = `"laji"`;
+
+exports[`1 > 使用快照 1`] = `"footer"`;
